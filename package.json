@@ -1,0 +1,23 @@
+{
+  "name": "coronavirus-toolkit",
+  "version": "1.0.0",
+  "description": "The sourcecode and development environment for the coronavirus-toolkit.com website.",
+  "scripts": {
+    "dev": "vuepress dev docs/",
+    "build": "vuepress build -d build/ docs/",
+    "export": "vuepress export docs/",
+    "postinstall": "patch-package"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeue/coronavirus-toolkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zeue/coronavirus-toolkit/issues"
+  },
+  "homepage": "https://github.com/zeue/coronavirus-toolkit#README.md",
+  "dependencies": {
+    "vuepress": "^1.4.0",
+    "patch-package": "6.2.0"
+  }
+}
