@@ -14,10 +14,10 @@ module.exports = {
     editLinkText: "Help us improve this page!",
     smoothScroll: true,
     lastUpdated: "Last Updated",
-    title: "Coronavirus Toolkit",
     head: [["link", { rel: "icon", href: "/logo.png" }]],
     sidebarDepth: 4
-  }
+  },
+  title: "Coronavirus Toolkit",
 };
 
 function getSidebar() {
