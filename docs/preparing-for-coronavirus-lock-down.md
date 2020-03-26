@@ -14,8 +14,6 @@ Preparing for our time in lock-down helps us all slow the transmission and sprea
 
 You should aim to get to the bottom green box by as short a route as possible...
 
-<button>SOME BUTTON</button>
-
 ## Flowchart
 
 ![](https://i.imgur.com/G8J791e.png)
