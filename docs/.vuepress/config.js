@@ -5,7 +5,7 @@ module.exports = {
     //logo: "/logo.png",
     nav: [
       { text: "Home", link: "/" },
-      { text: "Post a Suggestion", link: "#" }
+      { text: "Contact", link: "/contact" }
     ],
     sidebar: getSidebar(),
     repo: "zeue/coronavirus-toolkit",
@@ -17,7 +17,7 @@ module.exports = {
     head: [["link", { rel: "icon", href: "/logo.png" }]],
     sidebarDepth: 4
   },
-  title: "Coronavirus Toolkit",
+  title: "Coronavirus Toolkit"
 };
 
 function getSidebar() {
@@ -26,15 +26,23 @@ function getSidebar() {
     .filter(_x => _x.isFile())
     .map(_x => _x.name);
 
-  let _children = _fileScan.map(function(_x) {
-    let returned = "/" + _x.replace(".md", "");
+  let _children = _fileScan
+    .filter(_x => {
+      if (["README.md", "contact.md"].includes(_x)) {
+        return false;
+      } else {
+        return true;
+      }
+    })
+    .map(function(_x) {
+      let returned = "/" + _x.replace(".md", "");
 
-    if (returned.includes("README")) {
-      returned = returned.replace("README", "");
-    }
+      if (returned.includes("README")) {
+        returned = returned.replace("README", "");
+      }
 
-    return returned;
-  });
+      return returned;
+    });
 
   return [
     {
