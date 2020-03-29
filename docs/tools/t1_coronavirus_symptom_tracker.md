@@ -195,4 +195,4 @@ Print out and complete one row per day for each person in your household. For ad
 
 ### What to do if you think you have symptoms?
 
-The advice varies from country to country, so make sure you know what to do before you need to act. A helpful summary of CDC guidance is here.
+The advice varies from country to country, so make sure you know what to do before you need to act. A helpful summary of CDC guidance is [here](https://edition.cnn.com/2020/03/28/health/coronavirus-symptoms-list-what-to-do-wellness/index.html).
