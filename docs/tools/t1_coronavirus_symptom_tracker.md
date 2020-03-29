@@ -14,10 +14,10 @@ SOURCE: [GOV.UK](https://www.gov.uk/government/publications/guidance-on-shieldin
 
 ### What You Need
 
-**Ideal:** Sanitized thermometer, printer, paper and a pen or pencil
-**No thermometer?** Use the back of your hand as described in 'Checking for Symptoms of a Fever' on [WikiHow](https://www.wikihow.com/Check-a-Fever-Without-a-Thermometer)
-**Unsure how to sanitize your thermometer?** Refer to the clear guidelines at [HowToAdult](https://howtoadult.com/way-clean-thermometer-40663.html) 
-**Unable to print?** Hand write the table on the page 4
+* **Ideal:** Sanitized thermometer, printer, paper and a pen or pencil
+* **No thermometer?** Use the back of your hand as described in 'Checking for Symptoms of a Fever' on [WikiHow](https://www.wikihow.com/Check-a-Fever-Without-a-Thermometer)
+* **Unsure how to sanitize your thermometer?** Refer to the clear guidelines at [HowToAdult](https://howtoadult.com/way-clean-thermometer-40663.html)
+* **Unable to print?** Hand write the table on the page 4
 
 ### Waiver
 
