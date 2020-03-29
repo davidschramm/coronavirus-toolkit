@@ -14,7 +14,7 @@ The use of information on this site is at reader's own risk and no party involve
 
 ### What You Need
 * Materials to make a plan (eg paper, pen, computer printer)
-* [T3-Essential Supplies](/t3_essential_supplies.html) that you will need for your preparations for the extended period at home
+* [T3-Essential Supplies](/f1-preparing-for-coronavirus-lock-down.html#t3-essential-supplies)) that you will need for your preparations for the extended period at home
 * [T1-Coronavirus Symptom Tracker](/t1_coronavirus_symptom_tracker.html)
 
 ### Make a Plan for Your Household
