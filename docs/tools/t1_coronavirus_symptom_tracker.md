@@ -40,7 +40,7 @@ The use of information on this site is at reader's own risk and no party involve
 
 ### Other Causes of Body Temperature Variation
 
-There are other factors that effect body temperature (Web MD). Raised temperature should only be considered a coronavirus symptom if it exceeds 100.0 degrees F / 37.8 degrees C.
+There are other factors that effect body temperature ([Web MD](https://www.webmd.com/first-aid/qa/what-can-make-my-body-temperature-change)). Raised temperature should only be considered a coronavirus symptom if it exceeds 100.0 degrees F / 37.8 degrees C.
 
 ### What to do if you think you have symptoms?
 
