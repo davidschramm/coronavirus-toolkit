@@ -14,7 +14,7 @@ When in doubt about whether something is essential, ask yourself, *"Can our hous
 
 ### Health & Medication
 
-(adapted from Government of Canada guidelines)
+(adapted from [Government of Canada guidelines](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/covid-19-how-to-isolate-at-home.html))
 
 * Essential medication for everyone in the household
 * Face masks (Best=N95; Good=disposable face masks; Adequate=home made masks; Inadequate=no face mask)
