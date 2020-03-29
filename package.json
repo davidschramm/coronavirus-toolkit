@@ -16,7 +16,8 @@
   },
   "homepage": "https://github.com/zeue/coronavirus-toolkit#README.md",
   "dependencies": {
-    "vuepress": "^1.4.0",
-    "patch-package": "6.2.0"
+    "markdown-it-include": "^1.1.0",
+    "patch-package": "6.2.0",
+    "vuepress": "^1.4.0"
   }
 }

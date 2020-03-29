@@ -17,3 +17,9 @@ You should aim to get to the bottom green box by as short a route as possible...
 ## Flowchart
 
 ![](https://i.imgur.com/G8J791e.png)
+
+!!!include(docs/tools/t1_coronavirus_symptom_tracker.md)!!!
+!!!include(docs/tools/t2_guidelines_for_people_with_coronavirus_symptoms.md)!!!
+!!!include(docs/tools/t3_essential_supplies.md)!!!
+!!!include(docs/tools/t4_household_lockdown.md)!!!
+!!!include(docs/tools/t5_home_status_notice.md)!!!
