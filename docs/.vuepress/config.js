@@ -6,7 +6,7 @@ module.exports = {
       { text: "Home", link: "/" },
       { text: "Contact", link: "/contact" }
     ],
-    sidebar: getSidebar({ excludes: ["README.md", "contact.md"] }),
+    sidebar: getSidebar({ excludes: ["README.md", "contact.md", ".DS_Store"] }),
     repo: "zeue/coronavirus-toolkit",
     repoLabel: "Contribute!",
     editLinks: true,
@@ -19,7 +19,7 @@ module.exports = {
   title: "Coronavirus Toolkit",
   markdown: {
     extendMarkdown: md => {
-      md.use(require('markdown-it-include'))
+      md.use(require("markdown-it-include"));
     }
   }
 };
@@ -31,6 +31,7 @@ function getSidebar(settings) {
     .map(_x => _x.name);
 
   let _children = _fileScan
+    // TODO: ignore all files/directories that start with a .
     .filter(_x => {
       if (settings.excludes.includes(_x)) {
         return false;
