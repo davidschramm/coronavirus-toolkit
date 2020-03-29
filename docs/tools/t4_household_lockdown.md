@@ -31,7 +31,7 @@ Plan for how you can adapt your daily routine, and that of others in your househ
 * how can you make it easy for your household to routinely wash their hands in designated area(s)?
 * how are you planning to dispose of used tissues that have been used by household members coughing or blowing their nose?
 * Print a copy of the [T1-Coronavirus Symptom Tracker](/f1-preparing-for-coronavirus-lock-down.html#t1_coronavirus_symptom_tracker)
-* Print a copy of the [T5-Notice to Visitors](t5_notice_to_visitors.html)
+* Print a copy of the [T5-Notice to Visitors](/f1-preparing-for-coronavirus-lock-down.html#t5_notice_to_visitors)
 
 Sources: Adapted from [CDC](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/get-your-household-ready-for-COVID-19.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Fget-your-household-ready-for-COVID-19.html), [GOV.UK](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance/stay-at-home-guidance-for-households-with-possible-coronavirus-covid-19-infection)
 
