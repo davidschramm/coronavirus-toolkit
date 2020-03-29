@@ -43,7 +43,7 @@ When in doubt about whether something is essential, ask yourself, *"Can our hous
 **Food:** Sufficient non-perishable food for everyone in the household for the duration of lock-down. ([Business Insider](https://www.businessinsider.com/expert-how-to-stockpile-healthy-food-14-day-coronavirus-quarantine-2020-2))
 * Manual can opener
 
-**Drink:** The large majority of countries have access to clean tap water. Irrespective of this, it is worth filling a few clean containers with clean tap water and storing them in a cool, dry and dark place in case there are intermittent problems with water supply. One gallon (4 liters) per person should be sufficient for short supply outages. More if you anticipate longer outages. Follow your country guidance for sterilizing water if water-born illness is a known risk. (adapted from Red Cross)
+**Drink:** The large majority of countries have access to clean tap water. Irrespective of this, it is worth filling a few clean containers with clean tap water and storing them in a cool, dry and dark place in case there are intermittent problems with water supply. One gallon (4 liters) per person should be sufficient for short supply outages. More if you anticipate longer outages. Follow your country guidance for sterilizing water if water-born illness is a known risk. (adapted from [Red Cross](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html))
 
 ### What to do if you think you have symptoms?
 
