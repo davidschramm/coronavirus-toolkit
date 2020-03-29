@@ -26,7 +26,7 @@ Plan for how you can adapt your daily routine, and that of others in your househ
 * create a list of local and national essential service providers and aid organizations that can deliver essential supplies to your household ([40 Phone & Email Contact List Templates](http://templatelab.com/contact-list/))
 * what practical measures that you going to take to maintain social distancing?
 * plan for a ‘separation area’ for any household members who develop or have symptoms ([T6-Making a ‘Separation Area’](/f1-preparing-for-coronavirus-lock-down.html#t6_making_a_separation_area))
-* make sure you know what action is recommended in your area if coronavirus symptoms worsen ([T2-Guidelines for People with Coronavirus Symptoms](t2_guidelines_for_people_with_coronavirus_symptoms.html))
+* make sure you know what action is recommended in your area if coronavirus symptoms worsen ([T2-Guidelines for People with Coronavirus Symptoms](/f1-preparing-for-coronavirus-lock-down.html#t2_guidelines_for_people_with_coronavirus_symptoms))
 * make a plan for how you will take receipt of packages without coming into close proximity with the delivery person and plan for how you will handle any food delivered to the house ([Food Safety Tips](https://www.youtube.com/watch?time_continue=3&v=sjDuwc9KBps&feature=emb_logo))
 * how can you make it easy for your household to routinely wash their hands in designated area(s)?
 * how are you planning to dispose of used tissues that have been used by household members coughing or blowing their nose?
