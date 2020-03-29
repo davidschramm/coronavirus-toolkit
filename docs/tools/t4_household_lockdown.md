@@ -59,7 +59,7 @@ Guidance varies from country-to-country, but this list seems to be almost univer
   * Measure the **temperature** of those in your household daily. It is very important that you sanitize the thermometer, with either rubbing alcohol or lukewarm soapy water, before and after it is used for every person in the house, particularly if it is an oral thermometer. (How to Sanitize a Thermometer)
   * Record any significant changes in **cough** each day for everyone in the household
   * [T1-Coronavirus Symptom Tracker](/f1-preparing-for-coronavirus-lock-down.html#t1_coronavirus_symptom_tracker) is designed to make the recording of symptoms easy
-  * [T2-Guidelines for People with Coronavirus Symptoms](t2_guidelines_for_people_with_coronavirus_symptoms.html)
+  * [T2-Guidelines for People with Coronavirus Symptoms](/f1-preparing-for-coronavirus-lock-down.html#t2_guidelines_for_people_with_coronavirus_symptoms)
 
 Source: Adapted from [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public), [CDC](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/checklist-household-ready.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Fchecklist-household-ready.html)
 
