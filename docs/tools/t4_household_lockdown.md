@@ -46,7 +46,7 @@ Guidance varies from country-to-country, but this list seems to be almost univer
   * you undertake routine **exercise** outside for no more than one hour per day and live in an an area with low population density where you will not encounter anyone else
 * **Practice Preventative Actions**
   * **Avoid** close **contact** with people
-  * ![How to Practice Social Distancing](/t4_social_distancing.png
+  * ![How to Practice Social Distancing](/t4_social_distancing.png)
   * **Wash your hands** when needed for at least 20 seconds)
   * ![Wash Your Hands](/t4_wash_your_hands.png)
   * **Cover your mouth** and nose with your bent elbow or shoulder when you cough or sneeze
