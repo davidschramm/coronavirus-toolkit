@@ -2,12 +2,11 @@ const fs = require("fs");
 
 module.exports = {
   themeConfig: {
-    //logo: "/logo.png",
     nav: [
       { text: "Home", link: "/" },
       { text: "Contact", link: "/contact" }
     ],
-    sidebar: getSidebar(),
+    sidebar: getSidebar({ excludes: ["README.md", "contact.md"] }),
     repo: "zeue/coronavirus-toolkit",
     repoLabel: "Contribute!",
     editLinks: true,
@@ -15,12 +14,17 @@ module.exports = {
     smoothScroll: true,
     lastUpdated: "Last Updated",
     head: [["link", { rel: "icon", href: "/logo.png" }]],
-    sidebarDepth: 4
+    sidebarDepth: 1
   },
-  title: "Coronavirus Toolkit"
+  title: "Coronavirus Toolkit",
+  markdown: {
+    extendMarkdown: md => {
+      md.use(require('markdown-it-include'))
+    }
+  }
 };
 
-function getSidebar() {
+function getSidebar(settings) {
   let _fileScan = fs
     .readdirSync(__dirname + "/../", { withFileTypes: true })
     .filter(_x => _x.isFile())
@@ -28,13 +32,13 @@ function getSidebar() {
 
   let _children = _fileScan
     .filter(_x => {
-      if (["README.md", "contact.md"].includes(_x)) {
+      if (settings.excludes.includes(_x)) {
         return false;
       } else {
         return true;
       }
     })
-    .map(function(_x) {
+    .map(_x => {
       let returned = "/" + _x.replace(".md", "");
 
       if (returned.includes("README")) {
@@ -44,11 +48,15 @@ function getSidebar() {
       return returned;
     });
 
-  return [
+  let sidebar = [
     {
       title: "",
       collapsable: false,
       children: _children
     }
   ];
+
+  console.log(sidebar);
+
+  return sidebar;
 }
