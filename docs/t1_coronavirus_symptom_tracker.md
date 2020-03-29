@@ -32,6 +32,7 @@ The use of information on this site is at reader's own risk and no party involve
 - A template table for your household is provided overleaf
 
 | **Date / Name** | **A** | **B** | **C** |
+|-----|-----|-----|-----|
 | 25 Mar 20 | 98.3 N | 98.6 N | 98.5 N |
 | 26 Mar 20 | 98.1 N | 98.8 N | 98.6 N |
 | 27 Mar 20 | 98.4 N | 99.6 N | 98.6 N |
@@ -55,6 +56,7 @@ Print out and complete one row per day for each person in your household. For ad
 - **It is very important you sanitize your thermometer between measurements**
 
 | **Date /  Name** |    |   |   |   |   |   |
+|-----|-----|-----|-----|-----|-----|-----|
 |	|	|	|	|	|	|
 |	|	|	|	|	|	|
 |	|	|	|	|	|	|
