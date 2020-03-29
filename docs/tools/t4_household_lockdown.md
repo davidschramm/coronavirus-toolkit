@@ -4,7 +4,7 @@
 
 It is very important that household members stay at home. Staying at home will help prevent coronavirus entering your household, control the spread of the virus to friends, the wider community, and particularly the most vulnerable and ultimately 'flatten the curve' and save lives.
 
-![In the outbreak of an epidemic early countermeasures are important](/outbreak_counter_measures.png)
+![In the outbreak of an epidemic early countermeasures are important](/t4_outbreak_counter_measures.png)
 
 In the coming weeks, unless your household has been isolated and symptom free for 14 or more days, behave as if you or someone else in the household has coronavirus. This encourages us all to adapt our behavior so we are better prepared in the event someone does develop symptoms.
 
