@@ -2,7 +2,7 @@
 
 All country guidelines linked in the list below have home isolation policies, and guidance on what to do if the symptoms become acute. Familiarize yourself with them and know what to do if you reach that stage.
 
-| Australia | ![Austrailian Flag](https://www.coronavirus-toolkit.com/flag_au.png) | [Informatio9n for those with a suspected case](https://www.health.gov.au/resources/publications/coronavirus-covid-19-information-for-people-with-a-suspected-case) (DoH) |
+| Australia | ![Australian Flag](https://www.coronavirus-toolkit.com/flag_au.png) | [Informatio9n for those with a suspected case](https://www.health.gov.au/resources/publications/coronavirus-covid-19-information-for-people-with-a-suspected-case) (DoH) |
 | Canada | ![Canadian Flag](https://www.coronavirus-toolkit.com/flag_ca.png) | [If you become ill](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html) (Public Health Canada) |
 | NZ | ![New Zealand Flag](https://www.coronavirus-toolkit.com/flag_nz.png) | [Call Healthline for free on 0800-358-5453](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-novel-coronavirus-health-advice-general-public/covid-19-novel-coronavirus-questions-and-answers) (MoH) |
 | UK | ![United Kingdom Flag](https://www.coronavirus-toolkit.com/flag_uk.png) | [Use the 111 coronavirus service](https://111.nhs.uk/covid-19/) (NHS) |
