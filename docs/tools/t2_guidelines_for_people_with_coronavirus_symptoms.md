@@ -6,7 +6,7 @@ All country guidelines linked in the list below have home isolation policies, an
     <tr>
         <td>Australia</td>
         <td>![Australian Flag](/flag_au.png)</td>
-        <td>[Informatio9n for those with a suspected case](https://www.health.gov.au/resources/publications/coronavirus-covid-19-information-for-people-with-a-suspected-case) (DoH)</td>
+        <td>[Information for those with a suspected case](https://www.health.gov.au/resources/publications/coronavirus-covid-19-information-for-people-with-a-suspected-case) (DoH)</td>
     </tr>
     <tr>
         <td>Canada</td>
