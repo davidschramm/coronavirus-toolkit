@@ -1,4 +1,5 @@
 # T6: Household Quarantine Area
+*([download this tool](/T6-Household_Quarantine_Area-v2.pdf))*
 
 ### Why is this Important?
 
