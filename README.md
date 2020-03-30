@@ -1,8 +1,8 @@
 # coronavirus-toolkit
 
-<img src="https://flat.badgen.net/github/status/zeue/coronavirus-toolkit" />
-<img src="https://flat.badgen.net/github/license/zeue/coronavirus-toolkit" />
-<img src="https://flat.badgen.net/github/contributors/zeue/coronavirus-toolkit" />
+![](https://flat.badgen.net/github/status/zeue/coronavirus-toolkit)
+![](https://flat.badgen.net/github/license/zeue/coronavirus-toolkit)
+![](https://flat.badgen.net/github/contributors/zeue/coronavirus-toolkit)
 
 The sourcecode and development environment for the coronavirus-toolkit.com website.
 
