@@ -64,7 +64,7 @@ In addition to keeping personal care items separate, infected individuals should
 
 * **Bag washing separately:** Have the infected individual gather soiled clothing, bed linens, and towels in trash bags or a washable laundry bag to contain contamination
 * **Wash with precautions:** Caretakers may then handle a closed bag with gloves, and enclose it in another bag before immediately transporting it to the laundry area, where all items should be washed with detergent in the hottest water recommended
-* **Cleanse hands:** Caretakers should clean gloves and hands with soap and water or an alcohol-based sanitizer afterwards and disinfect any hard sufaces (see below)
+* **Cleanse hands:** Caretakers should clean gloves and hands with soap and water or an alcohol-based sanitizer afterwards and disinfect any hard surfaces (see below)
 
 ![The best way to wash your hands – WHO infograhic in dropbox](/t4_wash_your_hands.png)
 
