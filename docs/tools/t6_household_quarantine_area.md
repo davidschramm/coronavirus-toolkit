@@ -66,7 +66,7 @@ In addition to keeping personal care items separate, infected individuals should
 * **Wash with precautions:** Caretakers may then handle a closed bag with gloves, and enclose it in another bag before immediately transporting it to the laundry area, where all items should be washed with detergent in the hottest water recommended
 * **Cleanse hands:** Caretakers should clean gloves and hands with soap and water or an alcohol-based sanitizer afterwards and disinfect any hard sufaces (see below)
 
-![The best way to wash your hands – WHO infograhic in dropbox](/t4_wash_your_hands.png)
+![The best way to wash your hands](/t4_wash_your_hands.png)
 
 Source: [CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cleaning-disinfection.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Fcleaning-disinfection.html)
 
