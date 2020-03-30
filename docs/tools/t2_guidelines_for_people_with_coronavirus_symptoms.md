@@ -1,4 +1,5 @@
 ## T2: Guidelines for People with Coronavirus Symptoms
+*([download this tool](/T2-Guidelines_for_People_with_Coronavirus_Symptoms-v2.pdf))*
 
 All country guidelines linked in the list below have home isolation policies, and guidance on what to do if the symptoms become acute. Familiarize yourself with them and know what to do if you reach that stage.
 
