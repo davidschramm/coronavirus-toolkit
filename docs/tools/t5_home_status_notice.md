@@ -16,14 +16,14 @@ The simple slides below are designed to be printed and taped to your front door,
 
 The use of information on this site is at reader's own risk and no party involved in the information production can be held responsible for its use. By using the content found on this website, you further acknowledge that it is not intended to be a substitute for public health agency guidance, professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard public health agency or professional medical advice or delay in seeking it because of something you have read here.
 
-![Home Notice](/t5_home_notice_sign1.png)
+![Home Notice](/t5_home_notice_sign1.jpg)
 
-![Do's and Don'ts](/t5_home_notice_sign2.png)
+![Do's and Don'ts](/t5_home_notice_sign2.jpg)
 
-![No Symptoms/No Help](/t5_home_notice_sign3.png)
+![No Symptoms/No Help](/t5_home_notice_sign3.jpg)
 
-![Has Symptoms/No Help](/t5_home_notice_sign4.png)
+![Has Symptoms/No Help](/t5_home_notice_sign4.jpg)
 
-![No Symptoms/Help Needed](/t5_home_notice_sign5.png)
+![No Symptoms/Help Needed](/t5_home_notice_sign5.jpg)
 
-![Has Symptoms/Help Needed](/t5_home_notice_sign6.png)
+![Has Symptoms/Help Needed](/t5_home_notice_sign6.jpg)
