@@ -1,3 +1,4 @@
 node_modules
 build
 coronavirus-toolkit.code-workspace
+.DS_Store
