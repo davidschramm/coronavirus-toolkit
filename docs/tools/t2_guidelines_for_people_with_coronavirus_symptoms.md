@@ -5,27 +5,27 @@ All country guidelines linked in the list below have home isolation policies, an
 <table style="width:100%">
     <tr>
         <td>Australia</td>
-        <td>![Australian Flag](/flag_au.png)</td>
+        <td><img src="/flag_au.png" alt="Australian Flag"></td>
         <td>[Information for those with a suspected case](https://www.health.gov.au/resources/publications/coronavirus-covid-19-information-for-people-with-a-suspected-case) (DoH)</td>
     </tr>
     <tr>
         <td>Canada</td>
-        <td>![Canadian Flag](/flag_ca.png)</td>
+        <td><img src="/flag_ca.png" alt="Canadian Flag"></td>
         <td>[If you become ill](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html) (Public Health Canada)</td>
     </tr>
     <tr>
         <td>NZ</td>
-        <td>![New Zealand Flag](/flag_nz.png)</td>
+        <td><img src="/flag_nz.png" alt="New Zealand Flag"></td>
         <td>[Call Healthline for free on 0800-358-5453](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-novel-coronavirus-health-advice-general-public/covid-19-novel-coronavirus-questions-and-answers) (MoH)</td>
     </tr>
     <tr>
         <td>UK</td>
-        <td>![United Kingdom Flag](/flag_uk.png)</td>
+        <td><img src="/flag_uk.png" alt="United Kingdom Flag"></td>
         <td>[Use the 111 coronavirus service](https://111.nhs.uk/covid-19/) (NHS)</td>
     </tr>
     <tr>
         <td>USA</td>
-        <td>![United States Flag](/flag_us.png)</td>
+        <td><img src="/flag_us.png" alt="United States Flag"></td>
         <td>[What To Do if You Are Sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html) (CDC)</td>
     </tr>
 </table>
