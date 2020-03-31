@@ -1,4 +1,5 @@
 ## T3: Essential Supplies
+*([download this tool](/T3-Essential_Supplies-v2.pdf))*
 
 ### Rationale for Tool
 
@@ -14,7 +15,7 @@ When in doubt about whether something is essential, ask yourself, *"Can our hous
 
 ### Health & Medication
 
-(adapted from Government of Canada guidelines)
+(adapted from [Government of Canada guidelines](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/covid-19-how-to-isolate-at-home.html))
 
 * Essential medication for everyone in the household
 * Face masks (Best=N95; Good=disposable face masks; Adequate=home made masks; Inadequate=no face mask)
@@ -27,7 +28,7 @@ When in doubt about whether something is essential, ask yourself, *"Can our hous
 
 ### Cleaning & Hygiene
 
-(adapted from Government of Canada guidelines)
+(adapted from [Government of Canada guidelines](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/covid-19-how-to-isolate-at-home.html))
 
 * Hand soap
 * Alcohol-based sanitizer containing at least 60% alcohol
@@ -40,11 +41,11 @@ When in doubt about whether something is essential, ask yourself, *"Can our hous
 
 ### Food & Drink
 
-**Food:** Sufficient non-perishable food for everyone in the household for the duration of lock-down. (Business Insider)
+**Food:** Sufficient non-perishable food for everyone in the household for the duration of lock-down. ([Business Insider](https://www.businessinsider.com/expert-how-to-stockpile-healthy-food-14-day-coronavirus-quarantine-2020-2))
 * Manual can opener
 
-**Drink:** The large majority of countries have access to clean tap water. Irrespective of this, it is worth filling a few clean containers with clean tap water and storing them in a cool, dry and dark place in case there are intermittent problems with water supply. One gallon (4 liters) per person should be sufficient for short supply outages. More if you anticipate longer outages. Follow your country guidance for sterilizing water if water-born illness is a known risk. (adapted from Red Cross)
+**Drink:** The large majority of countries have access to clean tap water. Irrespective of this, it is worth filling a few clean containers with clean tap water and storing them in a cool, dry and dark place in case there are intermittent problems with water supply. One gallon (4 liters) per person should be sufficient for short supply outages. More if you anticipate longer outages. Follow your country guidance for sterilizing water if water-born illness is a known risk. (adapted from [Red Cross](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html))
 
 ### What to do if you think you have symptoms?
 
-The advice varies from country to country, so make sure you know what to do before you need to act. A helpful summary of CDC guidance is here.
+The advice varies from country to country, so make sure you know what to do before you need to act. A helpful summary of CDC guidance is [here](https://edition.cnn.com/2020/03/28/health/coronavirus-symptoms-list-what-to-do-wellness/index.html).

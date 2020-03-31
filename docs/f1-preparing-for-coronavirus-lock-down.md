@@ -1,4 +1,5 @@
 # F1: Preparing for Coronavirus Lock-Down
+*([download all F1 tools](/Coronavirus_Toolkit_F1_Tools_1-6.zip))*
 
 ## Preface
 
@@ -23,3 +24,4 @@ You should aim to get to the bottom green box by as short a route as possible...
 !!!include(docs/tools/t3_essential_supplies.md)!!!
 !!!include(docs/tools/t4_household_lockdown.md)!!!
 !!!include(docs/tools/t5_home_status_notice.md)!!!
+!!!include(docs/tools/t6_household_quarantine_area.md)!!!

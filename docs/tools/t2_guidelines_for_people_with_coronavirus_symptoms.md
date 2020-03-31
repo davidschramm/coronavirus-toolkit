@@ -1,12 +1,35 @@
 ## T2: Guidelines for People with Coronavirus Symptoms
+*([download this tool](/T2-Guidelines_for_People_with_Coronavirus_Symptoms-v2.pdf))*
 
 All country guidelines linked in the list below have home isolation policies, and guidance on what to do if the symptoms become acute. Familiarize yourself with them and know what to do if you reach that stage.
 
-| Australia | ![Australian Flag](/flag_au.png) | [Informatio9n for those with a suspected case](https://www.health.gov.au/resources/publications/coronavirus-covid-19-information-for-people-with-a-suspected-case) (DoH) |
-| Canada | ![Canadian Flag](/flag_ca.png) | [If you become ill](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html) (Public Health Canada) |
-| NZ | ![New Zealand Flag](/flag_nz.png) | [Call Healthline for free on 0800-358-5453](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-novel-coronavirus-health-advice-general-public/covid-19-novel-coronavirus-questions-and-answers) (MoH) |
-| UK | ![United Kingdom Flag](/flag_uk.png) | [Use the 111 coronavirus service](https://111.nhs.uk/covid-19/) (NHS) |
-| USA | ![United States Flag](/flag_us.png) | [What To Do if You Are Sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html) (CDC) |
+<table style="width:100%">
+    <tr>
+        <td>Australia</td>
+        <td><img src="/flag_au.png" alt="Australian Flag"></td>
+        <td><a href="https://www.health.gov.au/resources/publications/coronavirus-covid-19-information-for-people-with-a-suspected-case">Information for those with a suspected case (DoH)</a></td>
+    </tr>
+    <tr>
+        <td>Canada</td>
+        <td><img src="/flag_ca.png" alt="Canadian Flag"></td>
+        <td><a href="https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html">If you become ill (Public Health Canada)</a></td>
+    </tr>
+    <tr>
+        <td>NZ</td>
+        <td><img src="/flag_nz.png" alt="New Zealand Flag"></td>
+        <td><a href="https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-novel-coronavirus-health-advice-general-public/covid-19-novel-coronavirus-questions-and-answers">Call Healthline for free on 0800-358-5453 (MoH)</a></td>
+    </tr>
+    <tr>
+        <td>UK</td>
+        <td><img src="/flag_uk.png" alt="United Kingdom Flag"></td>
+        <td><a href="https://111.nhs.uk/covid-19/">Use the 111 coronavirus service (NHS)</a></td>
+    </tr>
+    <tr>
+        <td>USA</td>
+        <td><img src="/flag_us.png" alt="United States Flag"></td>
+        <td><a href="https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html">What To Do if You Are Sick (CDC)</a></td>
+    </tr>
+</table>
 
 If you live in a country with its own guidance, please send a link and we will add it to the list.
 

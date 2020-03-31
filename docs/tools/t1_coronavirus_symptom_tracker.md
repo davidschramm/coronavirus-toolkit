@@ -1,4 +1,5 @@
 ## T1: Coronavirus Symptom Tracker
+*([download this tool](/T1-Coronavirus_Symptom_Tracker-v4.pdf))*
 
 ### Rationale for Tool
 
@@ -14,10 +15,10 @@ SOURCE: [GOV.UK](https://www.gov.uk/government/publications/guidance-on-shieldin
 
 ### What You Need
 
-**Ideal:** Sanitized thermometer, printer, paper and a pen or pencil
-**No thermometer?** Use the back of your hand as described in 'Checking for Symptoms of a Fever' on [WikiHow](https://www.wikihow.com/Check-a-Fever-Without-a-Thermometer)
-**Unsure how to sanitize your thermometer?** Refer to the clear guidelines at [HowToAdult](https://howtoadult.com/way-clean-thermometer-40663.html) 
-**Unable to print?** Hand write the table on the page 4
+* **Ideal:** Sanitized thermometer, printer, paper and a pen or pencil
+* **No thermometer?** Use the back of your hand as described in 'Checking for Symptoms of a Fever' on [WikiHow](https://www.wikihow.com/Check-a-Fever-Without-a-Thermometer)
+* **Unsure how to sanitize your thermometer?** Refer to the clear guidelines at [HowToAdult](https://howtoadult.com/way-clean-thermometer-40663.html)
+* **Unable to print?** Hand write the table on the page 4
 
 ### Waiver
 
@@ -40,11 +41,11 @@ The use of information on this site is at reader's own risk and no party involve
 
 ### Other Causes of Body Temperature Variation
 
-There are other factors that effect body temperature (Web MD). Raised temperature should only be considered a coronavirus symptom if it exceeds 100.0 degrees F / 37.8 degrees C.
+There are other factors that effect body temperature ([Web MD](https://www.webmd.com/first-aid/qa/what-can-make-my-body-temperature-change)). Raised temperature should only be considered a coronavirus symptom if it exceeds 100.0 degrees F / 37.8 degrees C.
 
 ### What to do if you think you have symptoms?
 
-The advice varies from country to country, so make sure you know what to do before you need to act. A helpful summary of CDC guidance is here.
+The advice varies from country to country, so make sure you know what to do before you need to act. A helpful summary of CDC guidance is [here](https://edition.cnn.com/2020/03/28/health/coronavirus-symptoms-list-what-to-do-wellness/index.html).
 
 ### T1: Coronavirus Symptom Tracker
 
@@ -55,23 +56,144 @@ Print out and complete one row per day for each person in your household. For ad
 - **Track temperature (degrees F or degrees C) and cough symptoms (Y / N) every day at the same time.**
 - **It is very important you sanitize your thermometer between measurements**
 
-| **Date /  Name** |    |   |   |   |   |   |
-|-----|-----|-----|-----|-----|-----|-----|
-|	|	|	|	|	|	|
-|	|	|	|	|	|	|
-|	|	|	|	|	|	|
-|	|	|	|	|	|	|
-|	|	|	|	|	|	|
-|	|	|	|	|	|	|
-|	|	|	|	|	|	|
-|	|	|	|	|	|	|
-|	|	|	|	|	|	|
-|	|	|	|	|	|	|
-|	|	|	|	|	|	|
-|	|	|	|	|	|	|
-|	|	|	|	|	|	|
-|	|	|	|	|	|	|
+<table style="width:100%">
+    <tr>
+        <th>**Date /  Name**</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 ### What to do if you think you have symptoms?
 
-The advice varies from country to country, so make sure you know what to do before you need to act. A helpful summary of CDC guidance is here.
+The advice varies from country to country, so make sure you know what to do before you need to act. A helpful summary of CDC guidance is [here](https://edition.cnn.com/2020/03/28/health/coronavirus-symptoms-list-what-to-do-wellness/index.html).
