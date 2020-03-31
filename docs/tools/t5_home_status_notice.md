@@ -1,4 +1,5 @@
 ## T5-Home Status Notice
+*([download this tool](/T5-Home_Notice-v2.pdf))*
 
 The simple slides below are designed to be printed and taped to your front door, or displayed prominently for any visitors to your house.
 
