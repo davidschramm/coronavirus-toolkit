@@ -58,13 +58,13 @@ Print out and complete one row per day for each person in your household. For ad
 
 <table style="width:100%">
     <tr>
-        <th>**Date /  Name**</th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th style="width:16%;">**Date /  Name**</th>
+        <th style="width:14%;"></th>
+        <th style="width:14%;"></th>
+        <th style="width:14%;"></th>
+        <th style="width:14%;"></th>
+        <th style="width:14%;"></th>
+        <th style="width:14%;"></th>
     </tr>
     <tr>
         <td></td>
