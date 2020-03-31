@@ -1,4 +1,4 @@
-# T6: Household Quarantine Area
+## T6: Household Quarantine Area
 *([download this tool](/T6-Household_Quarantine_Area-v2.pdf))*
 
 ### Why is this Important?
@@ -7,7 +7,7 @@ If you or a loved one have symptoms of coronavirus, with or without a confirmed 
 
 **If you live alone**, make sure that your friends and neighbors on your emergency contact list are aware of your symptoms so they can check in on you. Of course they will still need to follow isolation guidelines to do that.
 
-## Disclaimer
+### Disclaimer
 
 The use of information on this site is at reader's own risk and no party involved in the information production can be held responsible for its use. By using the content found on this website, you further acknowledge that it is not intended to be a substitute for public health agency guidance, professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard public health agency or professional medical advice or delay in seeking it because of something you have read here.
 
