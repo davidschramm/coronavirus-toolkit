@@ -32,7 +32,7 @@ Researchers have found that even Emergency Department policies during an influen
 
 > Key Point: We know guidelines are in place for a reason but they are often hard to find, hard to understand or hard to follow
 
-Problem 4: There are four barriers to crisis management
+## Problem 4: There are four barriers to crisis management
 
 Concerned people want to do the right thing now to protect their households, however, there are four generic barriers to being able to manage the crisis effectively. (6) 
 
