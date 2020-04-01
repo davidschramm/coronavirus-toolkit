@@ -1,3 +1,3 @@
 # F3: Keeping Us and Our Delivery Drivers Safe
 
-*Coming soon*
+*Coming 10 April 2020*
