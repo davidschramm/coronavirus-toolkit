@@ -13,8 +13,9 @@ module.exports = {
     editLinkText: "Help us improve this page!",
     smoothScroll: true,
     lastUpdated: "Last Updated",
-    head: [["link", { rel: "icon", href: "/logo.png" }]],
-    sidebarDepth: 1
+    head: [["link", { rel: "icon", href: "/icon.png" }]],
+    sidebarDepth: 1,
+    logo: '/icon.png'
   },
   title: "Coronavirus Toolkit",
   markdown: {
