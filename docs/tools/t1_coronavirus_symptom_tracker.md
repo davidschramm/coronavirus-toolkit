@@ -1,5 +1,9 @@
 ## T1: Coronavirus Symptom Tracker
-*([download this tool](/T1-Coronavirus_Symptom_Tracker-v4.pdf))*
+
+<a href="/T1-Coronavirus_Symptom_Tracker-v4.pdf" target="_blank">
+    <img class="downloadtools" src="/download-tools.png" />
+</a>
+
 
 ### Rationale for Tool
 
