@@ -4,9 +4,10 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
+      { text: "About", link: "/about" },
       { text: "Contact", link: "/contact" }
     ],
-    sidebar: getSidebar({ excludes: ["README.md", "contact.md", ".DS_Store"] }),
+    sidebar: getSidebar({ excludes: ["README.md", "contact.md", ".DS_Store", "about.md"] }),
     repo: "zeue/coronavirus-toolkit",
     repoLabel: "Contribute!",
     editLinks: true,
