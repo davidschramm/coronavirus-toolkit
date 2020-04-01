@@ -1,5 +1,8 @@
 ## T3: Essential Supplies
-*([download this tool](/T3-Essential_Supplies-v2.pdf))*
+
+<a href="/T3-Essential_Supplies-v2.pdf" target="_blank">
+    <img class="downloadtools" src="/download-tools.png" />
+</a>
 
 ### Rationale for Tool
 
