@@ -1,5 +1,3 @@
-# coronavirus-toolkit
-
 <h1>
   Coronavirus Toolkit
   <img src="https://img.shields.io/github/contributors-anon/zeue/coronavirus-toolkit?style=flat-square">
