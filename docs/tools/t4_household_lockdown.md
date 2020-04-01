@@ -1,5 +1,8 @@
 ## T4: Household Lockdown
-*([download this tool](/T4-Household_Lockdown-v2.pdf))*
+
+<a href="/T4-Household_Lockdown-v2.pdf" target="_blank">
+    <img class="downloadtools" src="/download-tools.png" />
+</a>
 
 ### How does this help you and your loved ones?
 
