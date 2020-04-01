@@ -47,14 +47,14 @@ Guidance varies from country-to-country, but this list seems to be almost univer
   * you undertake routine **exercise** outside for no more than one hour per day and live in an an area with low population density where you will not encounter anyone else
 * **Practice Preventative Actions**
   * **Avoid** close **contact** with people
-  * ![How to Practice Social Distancing](/t4_social_distancing.png)
+  * ![How to Practice Social Distancing](/social-distancing.jpg)
   * **Wash your hands** when needed for at least 20 seconds)
-  * ![Wash Your Hands](/t4_wash_your_hands.png)
+  * ![Wash Your Hands](/how-to-wash-your-hands.png)
   * **Cover your mouth** and nose with your bent elbow or shoulder when you cough or sneeze
-  * ![Cover Your Mouth](/t4_cover_your_mouth.png)
+  * ![Cover Your Mouth](/coughing-sneezing.gif)
   * **Avoid touching** eyes, nose and mouth
   * Clean and **disinfect** frequently touched objects and surfaces
-  * ![Clean Surfaces](/t4_clean_surfaces.png)
+  * ![Clean Surfaces](/clean-surfaces.jpg)
 * **Watch out for symptoms**
 ![Symptoms of Coronavirus Disease | COVID-19](/symptoms.png)
   * Measure the **temperature** of those in your household daily. It is very important that you sanitize the thermometer, with either rubbing alcohol or lukewarm soapy water, before and after it is used for every person in the house, particularly if it is an oral thermometer. (How to Sanitize a Thermometer)

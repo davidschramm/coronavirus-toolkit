@@ -1,5 +1,8 @@
 # F1: Preparing for Coronavirus Lock-Down
-*([download all F1 tools](/Coronavirus_Toolkit_F1_Tools_1-6.zip))*
+
+<a href="/Coronavirus_Toolkit_F1_Tools_1-6.zip" target="_blank">
+    <img class="downloadtools" src="/download-tools.png" />
+</a>
 
 ## Preface
 
