@@ -1,3 +1,3 @@
 # F2: Living in a Household with Someone with Coronavirus Symptoms
 
-*Coming soon*
+*Coming 3 April 2020*
