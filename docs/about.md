@@ -61,7 +61,7 @@ No, of course not everyone has coronavirus, but it makes sense to behave as if t
 
 ## Remove barriers to crisis management
 
-> It seems obvious, but we should also act to remove the barriers to effective crisis management identified by Timen and colleagues. (6) There has been a dramatic shift in recent weeks to communicate the imperative and to improve the availability of protective equipment, however, we are still hearing conflicting rhetoric from our leaders (imprecise wording) and the guidelines being published can be light on detail (try finding a consistent definition of what ‘emergency supplies’ are – is there any wonder we have seen extensive panic buying?).
+It seems obvious, but we should also act to remove the barriers to effective crisis management identified by Timen and colleagues. (6) There has been a dramatic shift in recent weeks to communicate the imperative and to improve the availability of protective equipment, however, we are still hearing conflicting rhetoric from our leaders (imprecise wording) and the guidelines being published can be light on detail (try finding a consistent definition of what ‘emergency supplies’ are – is there any wonder we have seen extensive panic buying?).
 
 # What is the team behind the Coronavirus Community Toolkit doing?
 
