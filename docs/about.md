@@ -75,7 +75,7 @@ The tools in our toolkit will be supported by evidence because, as the WHO advis
 
 *Supported by Evidence:* We don’t want to add to the, ‘rumours, misconceptions, and misinformation’, and would prefer to use evidence based tools already available. We will focus most of our effort on developing specific ‘easily identifiable instructions’. We are calling each of these instructions a ‘Focus’ and each will be supported by multiple tools.
 
-*Fast:* The CDC advocate that, ‘Scale and speed of response activities are paramount’, during an emergency (2) When anything is done fast quality tends to suffer. If you can prove that anything we produce is wrong or unclear, please let us know and we will update our tools – we actively encourage this!
+*Fast:* The CDC advocate that, ‘Scale and speed of response activities are paramount’, during an emergency (11) When anything is done fast quality tends to suffer. If you can prove that anything we produce is wrong or unclear, please let us know and we will update our tools – we actively encourage this!
 
 # References
 
