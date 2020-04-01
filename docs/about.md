@@ -10,7 +10,7 @@ The tools will help anyone translate best health practice into clear actions any
 
 # Summary
 
-The four main challenges to reducing coronavirus risk are massive in nature and global in scope. We must collectively use simple physical interventions to reduce the risks of the pandemic spread. The Coronavirus Community Toolkit aims to bridge the gap between ideal guidelines and actual behavior by making it easier for us all to keep our households safe.
+The four main challenges to reducing coronavirus risk are massive in nature and global in scope. We must collectively use simple physical interventions to reduce the risks of the pandemic spread. The Coronavirus Community Toolkit aims to bridge the gap between ideal guidelines and actual behavior and thereby make it easier for us all to keep our households and communities as safe as possible.
 
 # The problems we are facing
 
