@@ -1,5 +1,8 @@
 ## T6: Household Quarantine Area
-*([download this tool](/T6-Household_Quarantine_Area-v2.pdf))*
+
+<a href="/T6-Household_Quarantine_Area-v2.pdf" target="_blank">
+    <img class="downloadtools" src="/download-tools.png" />
+</a>
 
 ### Why is this Important?
 
