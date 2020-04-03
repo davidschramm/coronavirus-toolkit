@@ -9,10 +9,9 @@
 
 While many people are under Stay-At-Home orders during the Coronavirus pandemic, there still may be a need to leave the household to go to work as someone in the essential services, purchase groceries, pick up prescription medications, exercise, or walk the dog. If you need to leave your home for any reason you will need to be prepared with the proper tools to do so, including how to socially distance.
 
-::: Warning This tool does not apply to
-**individuals leaving the home to work in a health-care setting**
-
-**infected individuals. It assumes infected individuals will follow the advice of their doctor or medical professional regarding quarantine**
+::: warning This tool does not apply to
+- **individuals leaving the home to work in a health-care setting**
+- **infected individuals. It assumes infected individuals will follow the advice of their doctor or medical professional regarding quarantine**
 :::
 
 ### Disclaimer
