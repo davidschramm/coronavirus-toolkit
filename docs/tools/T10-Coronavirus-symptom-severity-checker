@@ -19,20 +19,21 @@ The use of information on this site is at reader&#39;s own risk and no party inv
 ### What You Need
 
 - Thermometer if available (see T1 if not)
-- Emergency contact number or &#39;telemedicine&#39; contact details for your local healthcare system
+- Emergency contact number or 'telemedicine' contact details for your local healthcare system
 - Address and directions to your nearest hospital emergency room – check your local news regularly to see if this changes
 - Telephone, smartphone or computer for phone call or video call consultation with a local healthcare professional
--
-
- ![]
 
 Medical History (example form at the pdf link)
 
+<a href="http://cfpulmonary.com/wp-content/uploads/2013/01/New-Patient-Packs-Med-Hx.pdf" target="_blank">
+    <img class="downloadtools" src="/pdf.png" />
+</a>
 
-Medical History (example form at the pdf link)
 - List of current medications (example form at the pdf link)
 
- ![]
+<a href="http://medsandaging.com/downloads/PersonalMedList.pdf" target="_blank">
+    <img class="downloadtools" src="/pdf.png" />
+</a>
  
 ### What You Need to Do
 
@@ -47,9 +48,9 @@ Medical History (example form at the pdf link)
 
 The checklists below and provided at the end of the document help you determine the severity of coronavirus symptoms. They are adapted for your use from a &#39;Covid-19 remote assessment in primary care&#39; infographic.
 
-Source: [BMJ](https://www.bmj.com/content/368/bmj.m1182) (https://www.bmj.com/content/368/bmj.m1182)
+Source: [BMJ](https://www.bmj.com/content/368/bmj.m1182)
 
-### Severe Symptoms: Immediately call an ambulance or **g** o to the emergency room
+### Severe Symptoms: Immediately call an ambulance or go to the emergency room
 
 If any of the following symptoms develop follow the directions in your local country (eg call an ambulance):
 
@@ -71,37 +72,34 @@ If any of the following symptoms develop follow the directions in your local cou
 
 ### Coronavirus Symptom Checklist
 
-**Print out** and use to record symptoms so you can clearly communicate them with your healthcare professionls. Adapted from &#39;[Covid-19: a remote assessment in primary care](https://www.bmj.com/content/368/bmj.m1182)&#39;.
+**Print out** and use to record symptoms so you can clearly communicate them with your healthcare professionls. Adapted from [Covid-19: a remote assessment in primary care](https://www.bmj.com/content/368/bmj.m1182).
 
 ### Disclaimer
 
-The use of information on this site is at reader&#39;s own risk and no party involved in the information production can be held responsible for its use. By using the content found on this website, you further acknowledge that it is not intended to be a substitute for public health agency guidance, professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard public health agency or professional medical advice or delay in seeking it because of something you have read here.
+The use of information on this site is at reader's own risk and no party involved in the information production can be held responsible for its use. By using the content found on this website, you further acknowledge that it is not intended to be a substitute for public health agency guidance, professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard public health agency or professional medical advice or delay in seeking it because of something you have read here.
 
-1. **Severe**  **symptoms or rapidly worsening moderate symptoms?**
+1. **<span class="severe">Severe</span> symptoms or rapidly worsening moderate symptoms?**
 
--
-  - **◦◦**** Ambulance or emergency room**
+- **Ambulance or emergency room**
 
-1. **Moderate**  **symptoms or rapidly worsening mild symptoms?**
+2. **<span class="moderate">Moderate</span> symptoms or rapidly worsening mild symptoms?**
 
--
-  - **◦◦**** Call or video call to your local coronavirus helpline**
+  - **Call or video call to your local coronavirus helpline**
 
-1. **Mild**  **symptoms?**
+3. **<span class="mild">Mild</span> symptoms?**
 
--
-  - **◦◦**** Manage symptoms at home**
+  - **Manage symptoms at home**
 
-| **Severe** symptoms | Y/N | Recent changes |
+| **Severe symptoms** | **Y/N** | **Recent changes** |
 | --- | --- | --- |
-| Concerning symptoms from the &#39;Moderate Symptoms&#39; Checklist |   |   |
+| Concerning symptoms from the <span class="moderate">Moderate</span> Symptoms Checklist |   |   |
 | Severe shortness of breath - breathless while speaking or at rest |   |   |
 | Fast rate of breathing |   |   |
 | Blue lips or face |   |   |
 | Pulse rate \&gt;100 beats per minute and confusion |   |   |
 | Coughing up blood |   |   |
 
-| **Moderate symptoms** | **Y/N** | **Recent changes** |
+| **<span class="moderate">Moderate</span> symptoms** | **Y/N** | **Recent changes** |
 | --- | --- | --- |
 | Very high temperature - above 103ºF or 39ºC |   |   |
 | Shortness of breath - if you feel breathless while walking a short distance or speaking a few sentences |   |   |
@@ -111,9 +109,7 @@ The use of information on this site is at reader&#39;s own risk and no party inv
 | Neck stiffness |   |   |
 | Rash |   |   |
 
-
-
-| Mild symptoms | Y/N | Recent changes |
+| **<span class="mild">Mild</span> symptoms** | **Y/N** | **Recent changes** |
 | --- | --- | --- |
 | Cough |   |   |
 | High temperature (100ºF or 37.8ºC) |   |   |
