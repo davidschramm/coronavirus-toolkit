@@ -25,4 +25,6 @@ If anyone has any of the symptoms below, call your emergency services immediatel
 * __coughing up blood__
 :::
 
+__Source:__ [Covid-19 Remote consultations](https://www.bmj.com/content/368/bmj.m1182)
+
 If no one needs immediate emergency help, you should review the flowchart and use the tools provided. See also [F1: Preparing for Coronavirus Lock-Down](/f1-preparing-for-coronavirus-lock-down.html) for tools to help you while your household is at home.
