@@ -38,19 +38,19 @@ Medical History (example form at the pdf link)
 ### What You Need to Do
 
 - **Monitor** the person with symptoms of coronavirus (we have provided a check list at the end of the document for you)
-  - ◦◦How often you check on them depends on the severity of their symptoms
-- Know what to do next if symptoms are **moderate** and **worsening**
-  - ◦◦This will depend on what is recommended to you in your area – find out
-- Know what to do if symptoms are **severe**
-  - ◦◦This will depend on what is recommended to you in your area – find out
+  - How often you check on them depends on the severity of their symptoms
+- Know what to do next if symptoms are **<span class="moderate">Moderate</span>** and **worsening**
+  - This will depend on what is recommended to you in your area – find out
+- Know what to do if symptoms are **<span class="severe">Severe</span>**
+  - This will depend on what is recommended to you in your area – find out
 
 ### Assess the severity of coronavirus symptoms
 
-The checklists below and provided at the end of the document help you determine the severity of coronavirus symptoms. They are adapted for your use from a &#39;Covid-19 remote assessment in primary care&#39; infographic.
+The checklists below and provided at the end of the document help you determine the severity of coronavirus symptoms. They are adapted for your use from a [Covid-19 remote assessment in primary care](https://www.bmj.com/content/368/bmj.m1182) infographic.
 
 Source: [BMJ](https://www.bmj.com/content/368/bmj.m1182)
 
-### Severe Symptoms: Immediately call an ambulance or go to the emergency room
+### <span class="severe">Severe</span> Symptoms: Immediately call an ambulance or go to the emergency room
 
 If any of the following symptoms develop follow the directions in your local country (eg call an ambulance):
 
@@ -60,7 +60,7 @@ If any of the following symptoms develop follow the directions in your local cou
 - Pulse rate \&gt;100 beats per minute with confusion
 - Coughing up blood
 
-### Moderate Symptoms: Immediately call or videocall for medical assistance
+### <span class="moderate">Moderate</span> Symptoms: Immediately call or videocall for medical assistance
 
 - Very high temperature - over 103ºF or 39ºC and unmanaged by medications
 - Shortness of breath - if you feel breathless while walking a short distance or speaking a few sentences
