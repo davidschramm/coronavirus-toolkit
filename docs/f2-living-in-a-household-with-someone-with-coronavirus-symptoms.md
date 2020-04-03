@@ -30,4 +30,4 @@ __Source:__ [Covid-19 Remote consultations](https://www.bmj.com/content/368/bmj.
 If no one needs immediate emergency help, you should review the flowchart and use the tools provided. See also [F1: Preparing for Coronavirus Lock-Down](/f1-preparing-for-coronavirus-lock-down.html) for tools to help you while your household is at home.
 
 ## Flowchart
-![F2 Living someone symptoms flowchart-v2](https://user-images.githubusercontent.com/44531202/78309732-d5cf8280-7519-11ea-962a-1c56a6157d9f.jpg)
+![F2 Living someone symptoms flowchart-v2](/F2-Living_someone_symptoms_flowchart-v2.jpg)
