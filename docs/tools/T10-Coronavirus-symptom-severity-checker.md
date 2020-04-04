@@ -57,7 +57,7 @@ If any of the following symptoms develop follow the directions in your local cou
 - Severe shortness of breath - breathless while speaking or at rest
 - Fast rate of breathing
 - Blue lips or face
-- Pulse rate \&gt;100 beats per minute with confusion
+- Pulse rate greater than 100 beats per minute with confusion
 - Coughing up blood
 
 ### <span class="moderate">Moderate</span> Symptoms: Immediately call or videocall for medical assistance
@@ -90,7 +90,7 @@ The use of information on this site is at reader's own risk and no party involve
 
   - **Manage symptoms at home**
 
-| **Severe symptoms** | **Y/N** | **Recent changes** |
+| **<span class="severe">Severe</span> symptoms** | **Y/N** | **Recent changes** |
 | --- | --- | --- |
 | Concerning symptoms from the <span class="moderate">Moderate</span> Symptoms Checklist |   |   |
 | Severe shortness of breath - breathless while speaking or at rest |   |   |
