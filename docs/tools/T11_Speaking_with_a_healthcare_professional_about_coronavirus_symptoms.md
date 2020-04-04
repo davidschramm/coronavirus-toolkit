@@ -1,5 +1,9 @@
 ## T11: Speaking with a Healthcare Professional about Coronavirus Symptoms
 
+<a href="/T11_Speaking_with_healthcare_professional_V4.pdf" target="_blank">
+    <img class="downloadtools" src="/download-tools.png" />
+</a>
+
 :::warning
 If anyone has any of the symptoms below, call your emergency services immediately.
 
