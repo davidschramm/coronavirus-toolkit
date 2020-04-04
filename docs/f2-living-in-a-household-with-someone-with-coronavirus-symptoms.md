@@ -1,7 +1,5 @@
 # F2: Living in a Household with Someone with Coronavirus Symptoms
 
-*Coming 3 April 2020*
-
 ## Who is this for?
 
 Individuals and households who have one or more people with symptoms of Coronavirus and wanting to engage effectively with healthcare professionals at the right time.
@@ -34,3 +32,4 @@ If no one needs immediate emergency help, you should review the flowchart and us
 
 !!!include(docs/tools/T8-Travel_Safety_v4.md)!!!
 !!!include(docs/tools/T10-Coronavirus-symptom-severity-checker.md)!!!
+!!!include(docs/tools/T11_Speaking_with_a_healthcare_professional_about_coronavirus_symptoms.md)!!!
