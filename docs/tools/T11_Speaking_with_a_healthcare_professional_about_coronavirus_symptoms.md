@@ -24,12 +24,12 @@ Many healthcare settings have established hotlines, call centers and video consu
 
 ### Disclaimer
 
-The use of information on this site is at the reader&#39;s own risk and no party involved in producing information can be held responsible for its use. By using the content found on this website, you further acknowledge that it is not intended to be a substitute for public health agency guidance, professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard public health agency or professional medical advice or delay seeking it because of something you have read here.
+The use of information on this site is at the reader's own risk and no party involved in producing information can be held responsible for its use. By using the content found on this website, you further acknowledge that it is not intended to be a substitute for public health agency guidance, professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard public health agency or professional medical advice or delay seeking it because of something you have read here.
 
 ### What You Need
 
 - Writing Materials: pen, paper
-- Emergency contact number or &#39;telemedicine&#39; contact details for your local healthcare system
+- Emergency contact number or 'telemedicine' contact details for your local healthcare system
 - Address and directions to your nearest hospital emergency room – check your local news regularly to see if this changes
 - Telephone, smartphone or computer for phone call or video call consultation with a local healthcare professional
 - Medical History (example form at the pdf link)
@@ -44,7 +44,7 @@ The use of information on this site is at the reader&#39;s own risk and no party
     <img class="downloadtools" src="/pdf.png" />
 </a>
 
-The healthcare professional will ask you detailed questions regarding your symptoms, your travel history and contact with other people who have confirmed COVID 19.
+The healthcare professional will ask you detailed questions regarding your symptoms, your travel history and contact with other people who have confirmed COVID-19.
 
 ### What You Need to Do
 
