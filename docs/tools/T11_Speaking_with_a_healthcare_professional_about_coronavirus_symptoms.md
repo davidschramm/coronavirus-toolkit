@@ -65,7 +65,7 @@ Use a **Medical History** form and a **List of Current Medications** form above 
 
 You will be asked about the symptoms you are experiencing.
 
-Symptoms of COVID 19 may include (but are not limited to): Dry cough, difficulty breathing, fever, diarrhea, loss of sense of smell or taste, sore throat, body aches, muscle fatigue, headache. You may not possess all of these symptoms or your symptoms may vary. Refer to T1: Coronavirus Symptom Tracker,  T2: Guidelines for People with Coronavirus Symptoms,  T10: Check Severity of Coronavirus Symptoms and self-checkers like this from [Johns Hopkins](https://www.hopkinsmedicine.org/coronavirus/covid-19-self-checker.html).
+Symptoms of COVID 19 may include (but are not limited to): Dry cough, difficulty breathing, fever, diarrhea, loss of sense of smell or taste, sore throat, body aches, muscle fatigue, headache. You may not possess all of these symptoms or your symptoms may vary. Refer to [T1: Coronavirus Symptom Tracker](/f1-preparing-for-coronavirus-lock-down.html#t1_coronavirus_symptom_tracker),  [T2: Guidelines for People with Coronavirus Symptoms](/f1-preparing-for-coronavirus-lock-down.html#t2_guidelines_for_people_with_coronavirus_symptoms),  [T10: Check Severity of Coronavirus Symptoms](/f2-living-in-a-household-with-someone-with-coronavirus-symptoms.html#T10-Coronavirus-symptom-severity-checker) and self-checkers like this from [Johns Hopkins](https://www.hopkinsmedicine.org/coronavirus/covid-19-self-checker.html).
 
 <a href="https://www.hopkinsmedicine.org/coronavirus/covid-19-self-checker.html" target="_blank">
     <img class="downloadtools" src="/johns_hopkins_Coronavirus_Self_Checker.jpg" />
