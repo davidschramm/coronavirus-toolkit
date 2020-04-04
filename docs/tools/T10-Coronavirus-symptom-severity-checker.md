@@ -90,7 +90,7 @@ The use of information on this site is at reader's own risk and no party involve
 
   - **Manage symptoms at home**
 
-| **Severe symptoms** | **Y/N** | **Recent changes** |
+| **<span class="severe">Severe</span> symptoms** | **Y/N** | **Recent changes** |
 | --- | --- | --- |
 | Concerning symptoms from the <span class="moderate">Moderate</span> Symptoms Checklist |   |   |
 | Severe shortness of breath - breathless while speaking or at rest |   |   |
