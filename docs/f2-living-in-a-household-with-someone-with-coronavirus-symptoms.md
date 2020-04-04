@@ -1,7 +1,5 @@
 # F2: Living in a Household with Someone with Coronavirus Symptoms
 
-*Coming 3 April 2020*
-
 ## Who is this for?
 
 Individuals and households who have one or more people with symptoms of Coronavirus and wanting to engage effectively with healthcare professionals at the right time.
