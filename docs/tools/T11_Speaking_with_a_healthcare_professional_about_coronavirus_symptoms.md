@@ -4,8 +4,7 @@
     <img class="downloadtools" src="/download-tools.png" />
 </a>
 
-:::warning
-If anyone has any of the symptoms below, call your emergency services immediately.
+::: warning If anyone has any of the symptoms below, call your emergency services immediately.
 
 - **severe shortness of breath at rest**
 - **pain or pressure in the chest**
