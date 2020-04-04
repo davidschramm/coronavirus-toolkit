@@ -96,7 +96,7 @@ The use of information on this site is at reader's own risk and no party involve
 | Severe shortness of breath - breathless while speaking or at rest |   |   |
 | Fast rate of breathing |   |   |
 | Blue lips or face |   |   |
-| Pulse rate \&gt;100 beats per minute and confusion |   |   |
+| Pulse rate greater than 100 beats per minute and confusion |   |   |
 | Coughing up blood |   |   |
 
 | **<span class="moderate">Moderate</span> symptoms** | **Y/N** | **Recent changes** |
