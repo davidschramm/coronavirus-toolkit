@@ -24,13 +24,13 @@ We are seeking volunteers who are motivated to contribute and have skills and ex
 
 If you think you have skills to help us achieve this, please contact the team now. We may not be able to respond immediately as we’re working on the toolkit right now, but we will get back to you as soon as we can. If you feel that you are in a position to endorse or promote the toolkit, we’d love to hear from you too.
 
-**Volunteers:** coronavirustoolkit@gmail.com
+**Volunteers:** [coronavirustoolkit@gmail.com]
 
 ### Call for Group or Organizational Action
 
 If you are a group or organization with a similar objective, we would love to hear from you. Please be clear with any communication, because the team is too busy to respond to requests for funding or product endorsement and we will simply ignore the communication.
 
-**Groups:** coronavirustoolkit@gmail.com
+**Groups:** [coronavirustoolkit@gmail.com]
 
 ### How Did the Initiative Come About?
 
@@ -38,6 +38,6 @@ John Kerrigan, a concerned member of the public who has some relevant background
 
 > _“Everyone, me included, is anxious about COVID-19 and wants to do the right thing for their families and friends. Back in 2000 my company produced a toolkit to make it easy for doctors to follow clinical practice guidelines. I’m applying the lessons I learned then to do the same thing for households doing whatever they can to help in this crisis.”_
 
-The first volunteers met online on Monday 23 March and plan to focus on helping households that are symptom free.
+The first volunteers met online on Monday 23 March 2020.
 
 This is non-paid commitment from a motivated team of volunteers from all walks of life and we have no sponsorship from any establishment.
