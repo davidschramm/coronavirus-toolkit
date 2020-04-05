@@ -24,9 +24,9 @@ The use of information on this site is at reader&#39;s own risk and no party inv
 - **Good:** A plan on how you will re-enter your household safely (+ soap ready for handwashing upon return)
 - **Inadequate:** No precautions or handwashing or sanitizing upon return to household
 
-[T8-Travel Safey]
+[T8: Travel Safety](/f1-preparing-for-coronavirus-lock-down.html#T8-Travel_Safety_v4)
 
-[T9-Returning Home]
+[T9-Returning Home](/f1-preparing-for-coronavirus-lock-down.html#t9-Safely_Re-Entering_Your_House)
 
 ### Before Leaving
 

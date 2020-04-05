@@ -10,6 +10,8 @@ Understanding the severity of the symptoms of coronavirus, and preparing for a c
 
 It is reported that less than 1 in 20 people aged less than 50 years with COVID-19 needed hospital care in a recent study and, for most of us, the safest and the most comfortable place to recover from the virus is in our own household. The risks of severe complications increase with age and the presence of other illnesses.
 
+__Source:__ [The Lancet](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30243-7/fulltext)
+
 ::: danger
 If anyone has any of the symptoms below, call your emergency services immediately.
 
@@ -24,8 +26,6 @@ If anyone has any of the symptoms below, call your emergency services immediatel
 :::
 
 __Source:__ [Covid-19 Remote consultations](https://www.bmj.com/content/368/bmj.m1182)
-
-Source: [The Lancet](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30243-7/fulltext)
 
 ### Disclaimer
 
