@@ -14,7 +14,7 @@ The use of information on this site is at reader&#39;s own risk and no party inv
 
 ### What You Need
 
-Refer to [T7: Prepare to Leave the Household](/f2-living-in-a-household-with-someone-with-coronavirus-symptoms.html#t7_prepare-to-leave-the-household) before you embark on your journey. In addition, consider the following:
+Refer to [T7: Prepare to Leave the Household](/f1-preparing-for-coronavirus-lock-down.html#t7_prepare-to-leave-the-household) before you embark on your journey. In addition, consider the following:
 
 - **Best:** Surgical mask, disposable gloves if available, disinfecting wipes (e.g. Lysol, Chlorox)
 - **Good:** Disinfecting wipes (e.g. Lysol, Chlorox)
@@ -23,7 +23,7 @@ Refer to [T7: Prepare to Leave the Household](/f2-living-in-a-household-with-som
 
 If you are exhibiting symptoms of Covid19 (eg fever, cough), you avoid all travel and follow your country's guidelines for getting tested.
 
-See also [T1: Coronavirus Symptom Tracker](/f1-preparing-for-coronavirus-lock-down.html#t1_coronavirus_symptom_tracker) and [T10: Check Severity of Coronavirus Symptoms](/f2-living-in-a-household-with-someone-with-coronavirus-symptoms.html#T10-Coronavirus-symptom-severity-checker)10: Check Severity of Coronavirus Symptoms
+See also [T1: Coronavirus Symptom Tracker](/f1-preparing-for-coronavirus-lock-down.html#t1_coronavirus_symptom_tracker) and [T10: Check Severity of Coronavirus Symptoms](/f2-living-in-a-household-with-someone-with-coronavirus-symptoms.html#T10-Coronavirus-symptom-severity-checker): Check Severity of Coronavirus Symptoms
 
 Follow the basic principle of **minimizing contact with others**. If you are able to choose your method of transportation, consult the list below.
 
@@ -51,7 +51,7 @@ Source: [UK Government](https://www.gov.uk/guidance/coronavirus-covid-19-uk-tran
 
 #### Personal Vehicle (Car or Motorbike)
 
-Refer to [T7: Prepare to Leave the Household](/f2-living-in-a-household-with-someone-with-coronavirus-symptoms.html#t7_prepare-to-leave-the-household) before you embark on your journey.
+Refer to [T7: Prepare to Leave the Household](/f1-preparing-for-coronavirus-lock-down.html#t7_prepare-to-leave-the-household) before you embark on your journey.
 
 - If travel cannot be avoided, minimize contact with others
   - Ideally, trips should be made alone
