@@ -51,7 +51,7 @@ The use of information on this site is at reader&#39;s own risk and no party inv
 
 **Source:** [NIH](https://www.nih.gov/news-events/news-releases/new-coronavirus-stable-hours-surfaces), [NEJM](https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home), [ANSES](https://www.anses.fr/en/content/covid-19-ansess-recommendations-food-shopping-and-cleaning)
 
-<iframe width="1189" height="627" src="https://www.youtube.com/embed/sjDuwc9KBps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/sjDuwc9KBps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Discard waste packaging in a designated area.
   - Recycle normally
@@ -86,6 +86,6 @@ Dogs or other household pets that need to be walked should be taken outside with
 
 If you have been walking your dog, on your return consider cleaning its paws with water and soap.
 
-<iframe width="1189" height="669" src="https://www.youtube.com/embed/V4jw47bKQfw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/V4jw47bKQfw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Source:** [College of Veterinary Medicine, IL](https://vetmed.illinois.edu/pet_column/coronavirus-pets/), [CDC](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#accordion-26), [mira](https://www.cdc.gov/coronavirus/2019-ncov/faq.html)
