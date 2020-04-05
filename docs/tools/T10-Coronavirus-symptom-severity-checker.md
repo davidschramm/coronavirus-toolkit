@@ -10,6 +10,21 @@ Understanding the severity of the symptoms of coronavirus, and preparing for a c
 
 It is reported that less than 1 in 20 people aged less than 50 years with COVID-19 needed hospital care in a recent study and, for most of us, the safest and the most comfortable place to recover from the virus is in our own household. The risks of severe complications increase with age and the presence of other illnesses.
 
+::: danger
+If anyone has any of the symptoms below, call your emergency services immediately.
+
+* __severe shortness of breath at rest__
+* __pain or pressure in the chest__
+* __cold, clammy or pale and mottled skin__
+* __have recently become confused__
+* __are difficult to rouse__
+* __have blue lips or face__
+* __have little or no urine output when they pee__
+* __coughing up blood__
+:::
+
+__Source:__ [Covid-19 Remote consultations](https://www.bmj.com/content/368/bmj.m1182)
+
 Source: [The Lancet](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30243-7/fulltext)
 
 ### Disclaimer
@@ -57,7 +72,7 @@ If any of the following symptoms develop follow the directions in your local cou
 - Severe shortness of breath - breathless while speaking or at rest
 - Fast rate of breathing
 - Blue lips or face
-- Pulse rate \&gt;100 beats per minute with confusion
+- Pulse rate greater than 100 beats per minute with confusion
 - Coughing up blood
 
 ### <span class="moderate">Moderate</span> Symptoms: Immediately call or videocall for medical assistance
@@ -90,7 +105,7 @@ The use of information on this site is at reader's own risk and no party involve
 
   - **Manage symptoms at home**
 
-| **Severe symptoms** | **Y/N** | **Recent changes** |
+| **<span class="severe">Severe</span> symptoms** | **Y/N** | **Recent changes** |
 | --- | --- | --- |
 | Concerning symptoms from the <span class="moderate">Moderate</span> Symptoms Checklist |   |   |
 | Severe shortness of breath - breathless while speaking or at rest |   |   |
