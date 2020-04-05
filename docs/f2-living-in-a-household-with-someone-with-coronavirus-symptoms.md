@@ -1,5 +1,9 @@
 # F2: Living in a Household with Someone with Coronavirus Symptoms
 
+<a href="/Coronavirus_Toolkit_F2_Tools_6_and_10-11.zip" target="_blank">
+    <img class="downloadtools" src="/download-tools.png" />
+</a>
+
 ## Who is this for?
 
 Individuals and households who have one or more people with symptoms of Coronavirus and wanting to engage effectively with healthcare professionals at the right time.
