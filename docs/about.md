@@ -47,7 +47,7 @@ Concerned people want to do the right thing now to protect their households, how
 
 ## Reserve health services for those most at risk
 
-Approximately 80% of people who have COVID-19 do not have severe disease. 1 Acute health services are needed for the 20% with severe disease and the rest of their ‘normal’ acute patients. Most of the 80% of people who do contract coronavirus and do not have severe disease will recover at home. If your symptoms deteriorate, you should obviously seek acute care, so make sure you understand exactly what your government has told you to do in this circumstance.
+Approximately 80% of people who have COVID-19 do not have severe disease. (1) Acute health services are needed for the 20% with severe disease and the rest of their ‘normal’ acute patients. Most of the 80% of people who do contract coronavirus and do not have severe disease will recover at home. If your symptoms deteriorate, you should obviously seek acute care, so make sure you understand exactly what your government has told you to do in this circumstance.
 
 ## Use simple low cost interventions
 
