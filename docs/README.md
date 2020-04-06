@@ -10,6 +10,8 @@ A Focus helps people find the appropriate tools quickly and comprises multiple T
 
 ## What is the Coronavirus Toolkit?
 
+![The Toolkit: How is it put together?](/Facebook-cover.jpg)
+
 ### Goal
 
 Our goal is to develop a free, pragmatic, evidence-based toolkit for all, to encourage and sustain behavior that will combat the spread and impact of COVID-19, regardless of who you are or where you live in the world.
@@ -24,13 +26,13 @@ We are seeking volunteers who are motivated to contribute and have skills and ex
 
 If you think you have skills to help us achieve this, please contact the team now. We may not be able to respond immediately as we’re working on the toolkit right now, but we will get back to you as soon as we can. If you feel that you are in a position to endorse or promote the toolkit, we’d love to hear from you too.
 
-**Volunteers:** [coronavirustoolkit@gmail.com]
+**Volunteers:** <coronavirustoolkit@gmail.com>
 
 ### Call for Group or Organizational Action
 
 If you are a group or organization with a similar objective, we would love to hear from you. Please be clear with any communication, because the team is too busy to respond to requests for funding or product endorsement and we will simply ignore the communication.
 
-**Groups:** [coronavirustoolkit@gmail.com]
+**Groups:** <coronavirustoolkit@gmail.com>
 
 ### How Did the Initiative Come About?
 
