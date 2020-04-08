@@ -14,7 +14,9 @@ A Focus helps people find the appropriate tools quickly and comprises multiple T
 
 ### Goal
 
-Our goal is to develop a free, pragmatic, evidence-based toolkit for all, to encourage and sustain behavior that will combat the spread and impact of COVID-19, regardless of who you are or where you live in the world.
+> On 7 April 2020, in an effort to establish a cohesive identity for the initiative, we agreed to call the group **'Practical Reviews of Evidence - Volunteers Against Covid-19'** or **'P.R.E.V.A.C.'**
+
+The goal of PREVAC is to develop a free, pragmatic, evidence-based toolkit for all, to encourage and sustain behavior that will combat the spread and impact of COVID-19, regardless of who you are or where you live in the world.
 
 The objective for the toolkit is to bring together what every household needs to know to keep themselves as safe as possible from infection, and minimise any risk they may pose to others. Until proven vaccines and treatments are available, the contents of the toolkit will not be complicated; the biggest challenge now is helping us all change our behavior to keep us and our loved ones safe in the face of the crisis.
 
