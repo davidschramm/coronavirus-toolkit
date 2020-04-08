@@ -1,5 +1,7 @@
 # Who are we?
 
+![We Are PREVAC](/PREVAC-logo.jpg)
+
 The team behind the toolkit are a group of volunteers from around the world. We have varied backgrounds, skills and experience, however we have one thing in common. We are determined to do what we can to provide everyone with practical tools to help protect their households and loved ones and reduce the spread of coronavirus.
 
 > On 7 April 2020, in an effort to establish a cohesive identity for the initiative, we agreed to call the group **'Practical Reviews of Evidence - Volunteers Against Covid-19'** or **'P.R.E.V.A.C.'**
