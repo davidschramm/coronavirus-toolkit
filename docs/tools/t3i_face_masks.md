@@ -30,7 +30,7 @@ The use of information on this site is at the reader's own risk and no party inv
 
 There is no harm in wearing a mask covering your face, and it is believed to prevent droplets and a gaseous cloud containing the virus traveling up to 8 meters / 27 feet.
 
-- COVID-19 is transmitted in droplets or a gasous cloud exhaled by an individual infected with COVID-19
+- COVID-19 is transmitted in droplets or a gaseous cloud exhaled by an individual infected with COVID-19
   - These droplets can travel 2 meters or 6 feet away from the individual
   - A gaseous cloud can travel for up to 8 meters / 27 feet
 - A mask covering the nose and mouth will prevent or dramatically reduce COVID-19 transmission
