@@ -38,7 +38,7 @@ There is no harm in wearing a mask covering your face, and it is believed to pre
 - Masks are **only effective** when used in combination with frequent hand washing/sanitizing, ssocial distancing, and avoiding face-touching
 - You **must** wear a mask when caring for someone suspected of having COVID-19 or if you exhibit symptoms of COVID-19 and must leave the house (e.g. to get tested)
 - You **should** wear a mask if you may come into contact with people
-- Children under the age of 2, people who have trouble breathing, unconscious, or are incapacitated **should not** wear a facemask due to risk of suffocation
+- Children under the age of 2, people who have trouble breathing, are unconscious, or are incapacitated **should not** wear a facemask due to risk of suffocation
 
 **Source:** [CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html), [CDC FAQs](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-faq.html), [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks), [Lancet](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30134-X/fulltext), [BMJ](https://www.ncbi.nlm.nih.gov/pubmed/25858901), [JAMA](https://jamanetwork.com/journals/jama/fullarticle/2763852?appId=scweb)
 
