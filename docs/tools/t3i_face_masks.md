@@ -49,13 +49,13 @@ There is no harm in wearing a mask covering your face, and it is believed to pre
 - N95 and FFP3 masks are **not more effective** at preventing respiratory illness transmission than surgical masks ([Greenhalgh and Chan](https://www.cebm.net/covid-19/what-is-the-efficacy-of-standard-face-masks-compared-to-respirator-masks-in-preventing-covid-type-respiratory-illnesses-in-primary-care-staff/))
   - N95 and FFP3 masks only provide increased protection when doctors are working directly with the airway (e.g. intubation, bronchoscopy); N95 or FFP3 masks are often **only** worn by healthcare workers caring for COVID-19 patients during these procedures ([Public Health Ontario](https://www.publichealthontario.ca/-/media/documents/ncov/updated-ipac-measures-covid-19.pdf), [UK PPE Guidelines](https://www.gov.uk/government/publications/wuhan-novel-coronavirus-infection-prevention-and-control/covid-19-personal-protective-equipment-ppe#ppe-guidance-by-healthcare-context) – see Section 8)
   - Members of the public will not be exposed to this increased risk
-  - We do not recommend using N95 masks as it provides you with no additional protection and pulls supply away from essentia healthcare workers
+  - We do not recommend using N95 masks as it provides you with no additional protection and pulls supply away from essential healthcare workers
 
 **Source:** [WHO](https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations), [CDC](https://www.cdc.gov/coronavirus/2019-ncov/hcp/infection-control-recommendations.html)
 
-### Homemade Masks
+### Home Made Masks
 
-- Homemade cloth masks can be similarly effective to a surgical mask if worn correctly
+- Home Made cloth masks can be similarly effective to a surgical mask if worn correctly
   - Ensure your household has at least 2 homemade masks to prevent reuse
 
 #### Basic Mask
@@ -85,7 +85,7 @@ There is no harm in wearing a mask covering your face, and it is believed to pre
 
 **Source:** [CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html), [van der Sande et al., 2008](https://trello.com/c/nh9tuiRU/28-t3i-mask-usage)
 
-### Putting-On Masks
+### Putting On Masks
 
 Adapted from [WHO Guidelines](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks)
 
@@ -99,14 +99,14 @@ Adapted from [WHO Guidelines](https://www.who.int/emergencies/diseases/novel-cor
 - Remove the mask by removing it from behind, pulling the straps over the ears so that the mask falls forward
 - **Do not** touch the front of the mask as it may be contaminated with COVID-19
 - Surgical Masks: immediately dispose of them in a closed trash bin
-- Cloth Masks: immediately place in a separate bag after use and se
+- Cloth Masks: immediately place in a separate bag after use and set aside for washing in your washing machine
 - Wash your hands with alcohol-based hand rub or soap and water for 20 seconds
 
 ### Reusing Masks
 
-- Commercial masks (surgical masks) **should not be reused** and should be disposed immediately after use
+- Commercial masks (surgical masks) **should not be reused** and should be disposed of immediately after use
 - Cloth masks **can** be reused but must be cleaned or sterilized before reuse. There are a number of methods available, listed in order of preference:
-- A washing machine using laundry detergent the hot water setting (greater than 70°C/160°F)
+- A washing machine using laundry detergent on the hot water setting (greater than 70°C/160°F)
 - Soak in 1-part bleach in 50 parts hot water (greater than 70°C/160°F) for greater than 5 minutes, then rinse with water
   - This means 2 tablespoons or 20mL of bleach per liter of water, or 1/3 of a cup bleach per gallon of water
 - Masks should be hung to air-dry
