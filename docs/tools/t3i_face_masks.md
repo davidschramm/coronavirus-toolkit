@@ -35,7 +35,7 @@ There is no harm in wearing a mask covering your face, and it is believed to pre
   - A gaseous cloud can travel for up to 8 meters / 27 feet
 - A mask covering the nose and mouth will prevent or dramatically reduce COVID-19 transmission
 - Masks can discourage face-touching, which also protects you against COVID-19
-- Masks are **only effective** when used in combination with frequent hand washing/sanitizing, ssocial distancing, and avoiding face-touching
+- Masks are **only effective** when used in combination with frequent hand washing/sanitizing, social distancing, and avoiding face-touching
 - You **must** wear a mask when caring for someone suspected of having COVID-19 or if you exhibit symptoms of COVID-19 and must leave the house (e.g. to get tested)
 - You **should** wear a mask if you may come into contact with people
 - Children under the age of 2, people who have trouble breathing, are unconscious, or are incapacitated **should not** wear a facemask due to risk of suffocation
