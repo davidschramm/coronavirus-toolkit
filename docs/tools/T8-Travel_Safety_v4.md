@@ -1,4 +1,4 @@
-## T8: Travel safety
+## T8: Travel Safety
 
 <a href="/T8-Travel_Safety_v4.pdf" target="_blank">
     <img class="downloadtools" src="/download-tools.png" />
@@ -16,10 +16,10 @@ The use of information on this site is at reader&#39;s own risk and no party inv
 
 Refer to [T7: Prepare to Leave the Household](/f1-preparing-for-coronavirus-lock-down.html#t7_prepare-to-leave-the-household) before you embark on your journey. In addition, consider the following:
 
-- **Best:** Surgical mask, disposable gloves if available, disinfecting wipes (e.g. Lysol, Chlorox)
-- **Good:** Disinfecting wipes (e.g. Lysol, Chlorox)
+- **Best:** N95 mask, disposable gloves if available, disinfecting wipes (e.g. Lysol, Chlorox), and hand sanitizer
+- **Good:** Surgical mask, disinfecting wipes (e.g. Lysol, Chlorox)
 
-### What you Need to do
+### What You Need To Do
 
 If you are exhibiting symptoms of Covid19 (eg fever, cough), you avoid all travel and follow your country's guidelines for getting tested.
 
@@ -36,12 +36,12 @@ Follow the basic principle of **minimizing contact with others**. If you are abl
   - Passenger in another car that is not a taxi (only two people, one front, one back)
 - **Adequate**
   - Taxi (only two people, one front, one back)
-- **Not Recommended (appropriate with precautions, inadequate without precautions)**
+- **Not Recommended)**
   - Car or taxi (3 or more people in the vehicle)
   - Motorcycle (2 or more people on the motorcycle)
   - Cycle (less than 2m / 6ft between individuals)
   - Walk (less than 2m / 6ft between individuals)
-- **Last Choice (appropriate with precautions, inadequate without precautions)**
+- **Last Choice**
   - Mass Transit and Public Transport
 - **Avoid at All Costs Unless Instructed by an Official**
   - Air travel
@@ -69,7 +69,7 @@ __Taking Passengers__
 - Ensure as few passengers travel in one vehicle at a time
 - Obtain contact details from all passengers
 - If one passenger may have come into contact with an infected individual, they should wear a surgical mask
-- Opening the windows may help avoid infection, especially between taking passengers
+- Opening the windows may help reduce the likelihood of infection, especially between taking passengers
 
 __Filling Up with Fuel__
 
@@ -112,7 +112,7 @@ __Riding__
 
 __Leaving__
 
-- Wash or disinfect hands as soon as possible after leaving; avoid touching your face until you have done so
+- **Wash or disinfect hands as soon as possible after leaving; avoid touching your face until you have done so**
 
 Source: [BBC](https://www.bbc.com/news/health-51736185)
 
@@ -121,7 +121,7 @@ Source: [BBC](https://www.bbc.com/news/health-51736185)
 **Currently, the State Department is recommending that U.S. citizens avoid all international travel. If a traveler is a member of the essential services, and has special dispensation to fly, follow the guidance you will have been given.**
 
 - All non-essential air travel should be avoided particularly long plane rides.
-  - Your risk comes from sitting next to an individual who is carrying the virus (HEPA filters prevent airborne viral infection)
+  - The greatest risk comes from exposure an individual who is carrying the virus, or their infected droplets from sneezing, coughing, talking or breathing in your vicinity (HEPA filters may decrease the chance of infection, if used appropriately and according to manufacturer and OSHA/CDC/NIOSH specifications)
 - Disinfect all surfaces using disinfecting wipes
 - If a nearby passenger is coughing, ask to switch seats
   - If this cannot be done, avoid touching your face and continually disinfect surfaces
@@ -129,7 +129,7 @@ Source: [BBC](https://www.bbc.com/news/health-51736185)
 
 Source: [Consumer Reports](https://www.consumerreports.org/coronavirus/stay-safe-from-coronavirus-while-on-the-go/), [World Economic Forum](https://www.weforum.org/agenda/2020/03/shared-cars-scooters-mobility-fight-covid-19-initial-observations/)
 
-#### Cruise ships
+#### Cruise Ships
 
 - Disease can spread quickly inside the close quarters of a cruise ship, as has occurred in several cases already.
 - The CDC advises against any travel on a cruise ship, particularly for those at higher risk of getting severely ill from COVID-19.
