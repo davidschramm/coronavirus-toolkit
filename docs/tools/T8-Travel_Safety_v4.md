@@ -16,8 +16,8 @@ The use of information on this site is at reader&#39;s own risk and no party inv
 
 Refer to [T7: Prepare to Leave the Household](/f1-preparing-for-coronavirus-lock-down.html#t7_prepare-to-leave-the-household) before you embark on your journey. In addition, consider the following:
 
-- **Best:** N95 mask, disposable gloves if available, disinfecting wipes (e.g. Lysol, Chlorox), and hand sanitizer
-- **Good:** Surgical mask, disinfecting wipes (e.g. Lysol, Chlorox)
+- **Best:** N95 mask, disposable gloves if available, disinfecting wipes (e.g. Lysol, Clorox) and hand sanitizer
+- **Good:** Surgical mask, disinfecting wipes (e.g. Lysol, Clorox)
 
 ### What You Need To Do
 
@@ -60,7 +60,7 @@ __Disinfecting__
 
 - Disinfect hands before entering the car
   - If this cannot be done, disinfect all surfaces you touch before and after a journey (steering wheel, gearstick, handbrake, door handles, indicators/windshield wipers, radio, elbow rests, door frame, seat controls)
-  - Exterior door handles, door frame, and luggage compartment handles should also be disinfected before and after a journey
+  - Exterior door handles, door frame and luggage compartment handles should also be disinfected before and after a journey
 - Disinfect all surfaces touched by other passengers
   - Door handles (outside and inside), window controls, seat controls, elbow rest, door frame
 
