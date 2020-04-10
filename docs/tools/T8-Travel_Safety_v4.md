@@ -36,7 +36,7 @@ Follow the basic principle of **minimizing contact with others**. If you are abl
   - Passenger in another car that is not a taxi (only two people, one front, one back)
 - **Adequate**
   - Taxi (only two people, one front, one back)
-- **Not Recommended)**
+- **Not Recommended**
   - Car or taxi (3 or more people in the vehicle)
   - Motorcycle (2 or more people on the motorcycle)
   - Cycle (less than 2m / 6ft between individuals)
