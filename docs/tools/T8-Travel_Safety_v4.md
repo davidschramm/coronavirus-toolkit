@@ -68,7 +68,7 @@ __Taking Passengers__
 
 - Ensure as few passengers travel in one vehicle at a time
 - Obtain contact details from all passengers
-- If one passenger may have come into contact with an infected individual, they should wear a surgical mask
+- If one passenger may have come into contact with an infected individual, they should wear a mask
 - Opening the windows may help reduce the likelihood of infection, especially between taking passengers
 
 __Filling Up with Fuel__
@@ -81,6 +81,7 @@ Source: [Skoda](https://www.skoda-storyboard.com/en/skoda-world/responsibility/h
 
 #### Taxi
 
+- Wear a mask and encourage the driver to do the same
 - Minimize contact with surfaces inside and outside the car
   - If surfaces are touched, avoid touching your face until your hands are disinfected
 - Disinfect your hands when entering and leaving the taxi
@@ -90,7 +91,7 @@ Source: [City of Toronto Guidance](https://www.toronto.ca/wp-content/uploads/202
 
 #### Walking and Biking
 
-- Keep more than 6 feet / 2 m between yourself and other people
+- Keep more than 2m/6ft between yourself and other people
 - Avoid busy routes to minimize contact with others
 
 #### Mass Transit and Public Transport
@@ -100,7 +101,7 @@ Source: [City of Toronto Guidance](https://www.toronto.ca/wp-content/uploads/202
 __Entering__
 
 - Avoid crowded trains and buses
-  - Whenever possible, leave 2m / 6ft between other passengers
+  - Whenever possible, leave 2m/6ft between other passengers
   - Travel at off peak times if possible; consider arriving at work early if you need to travel during peak hours and cannot avoid busy transport during this time
 - Take another form of transport (e.g. biking) if you need to take multiple buses/trains to your destination
 - Pay with a contactless form of payment if possible, rather than bus tickets or train tokens
@@ -108,7 +109,7 @@ __Entering__
 __Riding__
 
 - Avoid touching any surfaces or sitting next to coughing individuals
-- Wear a surgical mask if possible, especially on busy buses/trains
+- Wear a N95 mask, surgical mask, or home made mask if possible, especially on busy buses/trains
 
 __Leaving__
 
