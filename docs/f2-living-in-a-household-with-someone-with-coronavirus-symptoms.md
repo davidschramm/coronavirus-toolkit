@@ -38,3 +38,4 @@ If no one needs immediate emergency help, you should review the flowchart and us
 !!!include(docs/tools/t6_household_quarantine_area.md)!!!
 !!!include(docs/tools/T10-Coronavirus-symptom-severity-checker.md)!!!
 !!!include(docs/tools/T11_Speaking_with_a_healthcare_professional_about_coronavirus_symptoms.md)!!!
+!!!include(docs/tools/t13-managing_symptoms_in_household.md)!!!
