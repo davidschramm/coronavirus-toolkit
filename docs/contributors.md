@@ -19,8 +19,9 @@ Last updated 6 April 2020
 | Joanna Przeździecka-Dołyk |   |
 | John Kerrigan | Experienced health services researcher and instigator of the toolkit initiative (NJ, USA) |
 | Loren De Freitas |   |
-| Matthew McGlennon | (Suffolk, UK) |
+| Dr. Matthew McGlennon | (Suffolk, UK) |
 | Oladimeji Adebayo |   |
+| Dr. Raouf Hajii | Experienced in clinical practice, health research and academic activities and a reviewer and editor for many peer-reviewed journals. (1 - Université de Sousse, Faculté de Médecine de Sousse, 4000, Sousse, Tunisie. 2 - Hôpital de Sidi Bouzid, Service de Médecine Interne, 9100, Sidi Bouzid, Tunisie) |
 | Sandra Dimitri |   |
 | Sara Moradi |   |
 | Syed Bukhari |   |
@@ -33,6 +34,5 @@ Last updated 6 April 2020
 
 | Organisation | Help Offered |
 | --- | --- |
-| Pharmaspectra | Support with emerging evidence on COVID-19 |
 | Slack | Sponsor of Standard Slack license |
 |   |   |
