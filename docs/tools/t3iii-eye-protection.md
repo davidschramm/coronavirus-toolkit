@@ -75,7 +75,7 @@ There is no harm in wearing eye protection, and it is believed to prevent drople
 
 #### Reusing Eye Protection
 - Eye protection must be cleaned between uses:
-  1. Hand wash with hot water (greater than 70°C/160°F) and dish soap for about 1 minute, then rinse and dry before disinfecting with store bough disinfectant cleaning solution or disinfecting wipes
+  1. Hand wash with hot water (greater than 70°C/160°F) and dish soap for about 1 minute, then rinse and dry before disinfecting with store bought disinfectant cleaning solution or disinfecting wipes
   2. Soak in 1-part bleach to 50 parts of hot water (greater than 70°C/160°F) for greater than 5 minutes, then rinse with water
       - This means 2 tablespoons or 20mL of bleach per liter of water, or 1/3 of a cup bleach per gallon of water
 - Eye protection should be dried with disposable paper towel or air dried
