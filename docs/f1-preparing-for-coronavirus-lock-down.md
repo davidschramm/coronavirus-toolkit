@@ -26,7 +26,6 @@ You should aim to get to the bottom green box by as short a route as possible...
 !!!include(docs/tools/t2_guidelines_for_people_with_coronavirus_symptoms.md)!!!
 !!!include(docs/tools/t3_essential_supplies.md)!!!
 !!!include(docs/tools/t3i_face_masks.md)!!!
-!!!include(t3iii-eye-protection.md)!!! 
 !!!include(docs/tools/t4_household_lockdown.md)!!!
 !!!include(docs/tools/t5_home_status_notice.md)!!!
 !!!include(docs/tools/t6_household_quarantine_area.md)!!!
