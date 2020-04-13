@@ -27,7 +27,7 @@ The use of information on this site is at reader's own risk and no party involve
 
 Medical gloves are helpful in reducing transmission of pathogens like COVID-19 in healthcare workers, but at the same time they do not provide complete protection. 
 
-When leaving the house, it is fundamental to wash your hands regularly and / or use alcohol gel solution at the first available opportunity. Using gloves is unnecessary and can also lead to an increased the risk of germ transmission, if not used correctly.
+When leaving the house, it is fundamental to wash your hands regularly and / or use alcohol gel solution at the first available opportunity. Using gloves is unnecessary and can also lead to an increased risk of germ transmission, if not used correctly.
 
 Medical gloves usage does not represent an alternative to hand washing, which is the best way to prevent the spread of COVID-19.
 
@@ -50,7 +50,7 @@ If you do not have medical gloves you can use reusable gloves/rubber gloves. The
 
 **Source:** [BCCDC](http://www.bccdc.ca/health-professionals/clinical-resources/covid-19-care), [HSE](http://www.hse.gov.uk/)
 
-### Putting-on and removing gloves safely
+### Putting on and removing gloves safely
 
 #### Putting on gloves
 - Wash your hands thoroughly with soap and water for 20 seconds
