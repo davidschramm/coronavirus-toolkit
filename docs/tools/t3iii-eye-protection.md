@@ -8,13 +8,18 @@ The use of information on this site is at reader's own risk and no party involve
 
 ### What You Need
 **Preferred:** Plastic safety goggles or a face shield
+
 **Somewhat Effective:** Wrap-around sunglasses, safety glasses
+
 **No evidence that they are effective:** Prescription glasses, normal sunglasses
+
 **Not Effective:** No eye protection
 
 #### Should I Wear Eye Protection?
 **When leaving the house – Yes.**
+
 **When at home and you are symptomatic or have had recent contact with someone with COVID-19 – Yes.**
+
 **When at home and you have been in lock-down for greater than 14 days and no one at home has symptoms – No.**
 
 There is no harm in wearing eye protection, and it is believed to prevent droplets and a gaseous cloud containing the virus traveling up to 8 meters / 27 feet from reaching the eyes, which can cause infection.
