@@ -1,6 +1,6 @@
 # Who are we?
 
-![We Are PREVAC](/PREVAC-logo.jpg)
+![We Are PREVAC](/PREVAC-logo.jpeg)
 
 The team behind the toolkit are a group of volunteers from around the world. We have varied backgrounds, skills and experience, however we have one thing in common. We are determined to do what we can to provide everyone with practical tools to help protect their households and loved ones and reduce the spread of coronavirus.
 
