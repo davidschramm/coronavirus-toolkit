@@ -6,7 +6,7 @@
 
 ### Why is the tool helpful to you?
 
-The following symptoms of Coronavirus helps you decide what to do next. The most common symptoms of Coronavirus are recent onset of:
+Knowing if anyone has symptoms of coronavirus helps you decide what to do next. The most common symptoms of Coronavirus are recent onset of:
 
 - new continuous cough and/or
 - high temperature (above 100.0 °F / 37.8 °C)
