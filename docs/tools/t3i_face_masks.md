@@ -1,6 +1,6 @@
 ## T3i: Essential Supplies – Face Masks
 
-<a href="/T3i-Face_Masks_v3.pdf" target="_blank">
+<a href="/T3i-Face_Masks_v5.pdf" target="_blank">
     <img class="downloadtools" src="/download-tools.png" />
 </a>
 
