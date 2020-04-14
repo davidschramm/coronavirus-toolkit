@@ -83,7 +83,7 @@ Monitor household members' symptoms daily. Use the simple paper tracker for mild
 
 ### Other Causes of Body Temperature Variation
 
-There are other factors that effect body temperature ([Web MD](https://www.webmd.com/first-aid/qa/what-can-make-my-body-temperature-change)). 
+There are other factors that affect body temperature ([Web MD](https://www.webmd.com/first-aid/qa/what-can-make-my-body-temperature-change)). 
 
 Raised temperature should only be considered a coronavirus symptom if it exceeds 100.0 °F / 37.8 °C.
 
