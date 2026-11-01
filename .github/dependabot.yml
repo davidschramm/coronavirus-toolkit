@@ -1,0 +1,12 @@
+# Security updates only, grouped into one PR per ecosystem (David, 2026-11-01).
+# open-pull-requests-limit: 0 turns off routine version bumps; it does not affect security updates.
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directories: ["**/*"]
+    schedule: { interval: "weekly" }
+    open-pull-requests-limit: 0
+    groups:
+      security:
+        applies-to: security-updates
+        patterns: ["*"]
